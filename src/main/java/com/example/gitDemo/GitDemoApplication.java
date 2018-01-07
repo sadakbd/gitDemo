@@ -10,6 +10,7 @@ public class GitDemoApplication {
 		SpringApplication.run(GitDemoApplication.class, args);
 		System.out.println("I am here");
 		System.out.println("This is br-1");
+		System.out.println("Commit...");
 		
 	}
 }
