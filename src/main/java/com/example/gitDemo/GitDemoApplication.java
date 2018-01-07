@@ -11,6 +11,7 @@ public class GitDemoApplication {
 		System.out.println("I am here");
 		System.out.println("This is br-1");
 		System.out.println("Commit...");
-		
+		System.out.println("Master uncommitted");
+		System.out.println("Branch uncommitted");
 	}
 }
